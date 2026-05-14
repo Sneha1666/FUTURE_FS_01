@@ -59,7 +59,7 @@ FUTURE_FS_01/
 
 ## 💻 GitHub Repository
 
-🔗 https://github.com/Sneha1666
+🔗 https://github.com/Sneha1666/FUTURE_FS_01
 
 ---
 
